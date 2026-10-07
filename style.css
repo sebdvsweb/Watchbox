@@ -1,0 +1,191 @@
+/*
+============================================================
+                    CHARTE GRAPHIQUE
+                       WATCHBOX
+============================================================
+
+POLICES
+------------------------------------------------------------
+
+Police principale :
+Arial, Helvetica, sans-serif
+
+La police doit être utilisée pour l'ensemble du site.
+
+Pour les titres :
+- police principale en gras
+- lettres éventuellement espacées
+- titres très visibles
+
+Pour les textes :
+- couleur gris clair
+- taille plus petite que les titres
+
+
+COULEURS
+------------------------------------------------------------
+
+Fond principal :
+#000000
+
+Fond secondaire :
+#050505
+
+Fond des cartes :
+#151515
+
+Fond des cartes au survol :
+#222222
+
+Fond / éléments secondaires :
+#292929
+
+Blanc principal :
+#FFFFFF
+
+Gris clair :
+#CCCCCC
+
+Gris moyen :
+#999999
+
+Gris foncé :
+#666666
+
+Bordures :
+#222222
+
+Rouge principal — couleur WatchBox :
+#E50914
+
+Rouge au survol :
+#F6121D
+
+Noir des textes sur bouton blanc :
+#000000
+
+
+HERO
+------------------------------------------------------------
+
+Le hero doit avoir une ambiance sombre.
+
+Couleur dominante :
+#000000
+
+Couleur secondaire possible :
+#241338
+
+BOUTONS
+------------------------------------------------------------
+
+Bouton principal :
+
+Fond :
+#FFFFFF
+
+Texte :
+#000000
+
+Bouton secondaire :
+
+Fond :
+rgba(100, 100, 100, 0.8)
+
+Texte :
+#FFFFFF
+
+Bouton de connexion :
+
+Fond :
+#E50914
+
+Texte :
+#FFFFFF
+
+
+CARTES
+------------------------------------------------------------
+
+Fond :
+#151515
+
+Fond au survol :
+#222222
+
+Texte :
+#FFFFFF
+
+Informations secondaires :
+#999999
+
+Les cartes doivent avoir des coins légèrement arrondis.
+
+
+BADGES
+------------------------------------------------------------
+
+Fond :
+#E50914
+
+Texte :
+#FFFFFF
+
+
+FOOTER
+------------------------------------------------------------
+
+Fond :
+#000000
+
+Bordure :
+#222222
+
+Texte :
+#666666
+
+
+STYLE GÉNÉRAL
+------------------------------------------------------------
+
+Le site doit rappeler une plateforme de streaming moderne.
+
+Principes à respecter :
+
+- fond global noir
+- beaucoup d'espace entre les sections
+- titres blancs
+- informations secondaires en gris
+- rouge utilisé comme couleur d'accent
+- cartes légèrement arrondies
+- boutons bien visibles
+- effets de survol discrets
+- interface responsive
+
+
+FLEXBOX
+------------------------------------------------------------
+
+Les propriétés suivantes doivent être utilisées
+dans différentes parties du site :
+
+display: flex;
+flex-direction;
+justify-content;
+align-items;
+flex-wrap;
+align-self;
+
+
+RESPONSIVE
+------------------------------------------------------------
+
+Sur petit écran :
+
+- les éléments horizontaux peuvent passer en colonne
+- les cartes doivent revenir à la ligne
+- les boutons doivent pouvoir passer à la ligne
+- la fiche d'une série doit pouvoir être affichée
+  verticalement
+- aucun élément ne doit provoquer de défilement horizontal
+*/

@@ -1,0 +1,133 @@
+WATCHBOX
+
+========================================
+NAVIGATION
+
+Accueil
+Séries
+Films
+Ma liste
+Connexion
+
+========================================
+
+PAGE D'ACCUEIL — HERO
+
+SÉRIE DU MOMENT
+
+STRANGER THINGS
+
+★ 4.8
+2026
+16+
+4 saisons
+
+Dans une petite ville américaine, un groupe d'adolescents découvre
+un monde parallèle rempli de mystères et de créatures inquiétantes.
+
+▶ Regarder
+ⓘ Plus d'informations
+
+========================================
+PAGE D'ACCUEIL — SÉRIES POPULAIRES
+
+Séries populaires
+
+Stranger Things
+Science-fiction
+★ 4.8
+16+
+
+Wednesday
+Fantastique
+★ 4.6
+13+
+
+Breaking Bad
+Drame
+★ 4.9
+16+
+
+The Last of Us
+Post-apocalyptique
+★ 4.7
+16+
+
+Dark
+Science-fiction
+★ 4.8
+16+
+★ Ma préférée
+
+========================================
+PAGE D'ACCUEIL — À DÉCOUVRIR
+
+À découvrir également
+
+Black Mirror
+Science-fiction
+
+Lupin
+Policier
+
+The Boys
+Action
+
+The Office
+Comédie
+
+========================================
+PAGE FICHE — STRANGER THINGS
+
+SÉRIE
+
+Stranger Things
+
+★ 4.8
+2026
+16+
+4 saisons
+
+Quand un jeune garçon disparaît mystérieusement, ses amis
+se lancent à sa recherche et découvrent peu à peu les
+secrets inquiétants de leur petite ville.
+
+Entre expériences scientifiques, monde parallèle et créatures
+mystérieuses, le groupe va devoir affronter des événements
+qui dépassent tout ce qu'il pouvait imaginer.
+
+▶ Regarder
+
+Ma liste
+
+========================================
+PAGE FICHE — INFORMATIONS
+
+Informations
+
+Genres
+
+Science-fiction, Fantastique, Drame
+
+Créateurs
+
+Matt Duffer, Ross Duffer
+
+Distribution
+
+Millie Bobby Brown, Finn Wolfhard, David Harbour
+
+Langues
+
+Français, Anglais, Espagnol
+
+
+========================================
+FOOTER
+
+© 2026 WatchBox
+
+Accueil
+Confidentialité
+Conditions
+Contact
